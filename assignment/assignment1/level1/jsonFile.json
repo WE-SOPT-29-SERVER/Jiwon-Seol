@@ -1,0 +1,8 @@
+// JSON 키 값은 모두 string이어야 함
+// 함수를 넣을 수 없음. data만 가짐
+// 마지막 , 불가능
+{
+  "name": "WE SOPT",
+  "slogan": "우리가 SOPT입니다",
+  "part": ["plan", "design", "andriod", "iOS", "server", "web"]
+}
